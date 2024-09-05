@@ -3,7 +3,7 @@ import { Outlet } from 'react-router-dom';
 import { Container, Row } from 'reactstrap';
 import './Style/Layout.scss';
 import Topbar from './Topbar';
-import Sidebar from './Sidebar';
+
 
 
 class Layout extends Component {

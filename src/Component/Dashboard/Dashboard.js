@@ -1,6 +1,5 @@
 import React, { useState } from 'react';
 import { Container, Row, Col } from 'reactstrap';
-import { Assest } from '../../ReusableComponent/Assest/Assest';
 import './Dashboard.scss';
 import Modal from '../../ReusableComponent/Component/Model/Modal';
 import StudentTile from './Component/StudentTile';
